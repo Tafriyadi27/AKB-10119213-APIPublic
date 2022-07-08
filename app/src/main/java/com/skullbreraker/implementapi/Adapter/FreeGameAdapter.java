@@ -17,6 +17,11 @@ import com.skullbreraker.implementapi.R;
 
 import java.util.List;
 
+//    Tanggal Pengerjaan : 5 - 14 Juli 2022
+//    NIM : 10119213
+//    Nama : Tri Tafriyadi
+//    Kelas : IF6
+
 public class FreeGameAdapter extends RecyclerView.Adapter<FreeGameAdapter.MyHolder> {
     private final Context context;
     private List<FreeGameModel> freeGameModelList;

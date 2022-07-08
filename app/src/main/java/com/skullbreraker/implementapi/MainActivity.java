@@ -20,6 +20,11 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+//    Tanggal Pengerjaan : 5 - 14 Juli 2022
+//    NIM : 10119213
+//    Nama : Tri Tafriyadi
+//    Kelas : IF6
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String API_KEY = BuildConfig.API_KEY;

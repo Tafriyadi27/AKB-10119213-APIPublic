@@ -3,6 +3,10 @@ package com.skullbreraker.implementapi.Model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+//    Tanggal Pengerjaan : 5 - 14 Juli 2022
+//    NIM : 10119213
+//    Nama : Tri Tafriyadi
+//    Kelas : IF6
 
 public class FreeGameModel {
     @SerializedName("title")

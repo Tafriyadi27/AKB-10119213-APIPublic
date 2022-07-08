@@ -5,6 +5,11 @@ import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+//    Tanggal Pengerjaan : 5 - 14 Juli 2022
+//    NIM : 10119213
+//    Nama : Tri Tafriyadi
+//    Kelas : IF6
+
 public class ApiEndPoint {
     private static final String BASE_URL = "https://free-to-play-games-database.p.rapidapi.com/api/";
     private static Retrofit retrofit = null;
